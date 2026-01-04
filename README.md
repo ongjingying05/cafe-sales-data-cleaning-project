@@ -10,4 +10,4 @@ Queries used:
 ⦁	Aggregate functions  
 ⦁	Temporary tables  
 
-BigQuery is used for this project. Data obtained from Kaggle: Cafe Sales - Dirty Data for Cleaning Training https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
+BigQuery is used for this project. Data obtained from Kaggle: [Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
